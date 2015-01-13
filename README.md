@@ -48,5 +48,66 @@ a maximum of 4 images to the server.
 
 ===Revised Plan===
 
+Toilet Finder
+-----------------
+1st User
+
+Step 1
+Add a toilet
+1st step
+Toilet Address
+Address
+
+Step 2
+Exists or Not (Flag or iButton)
+Red means - This toilet does not exist
+Green means - This toilet exists.
+
+Step 3
+Rate & Review
+Rate Toilet - Stars for (Afordability or Free )
+Accessibility  - Stars for (Afordability or Free )
+Hygene - Stars for (Afordability or Free )
+Safety - Stars for (Afordability or Free )
+
+Add Comments
+
+Submit
+----------
+2nd User
+Locate a Toilet in Map
+Add Photo
+Inside & Outside
+Mark Gender - Male, Female or Both
+
+All Other Features of 1st User
+
+Toilet added by this user will be reviewed before publishing 
+——————
+3rd User
+
+Admin Review Panel
+Add/Edit/Delete Toilets
+Add researchers and other 
+
+-----------------
+4th User (General Public)
+
+User Login
+
+Auto location finder
+Auto show all toilets around
+Guide user to selected toilet
+Click to see rating and address
+List view of detail
+
+Five minutes after entering into a fixed radius of (50-100 mtrs)
+Notification to ask
+Used or Not Used
+If Used
+Rate and Review
+
+Share in social sites (FB, Twitter)
+
 
 
